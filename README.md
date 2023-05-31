@@ -7,8 +7,8 @@ The Phi Frontend Template is a comprehensive template that allows you to build o
 ## Features
 
 - [x] React Hooks implemented for all Phi contracts
-- [x] Spritesheet for Phi object
-- [x] Image for Phi object
+- [x] A [spritesheet](https://www.codeandweb.com/what-is-a-sprite-sheet) for the Phi object is a single image that contains multiple smaller images, designed to enhance startup and loading speed
+- [x] An image for the Phi object
 - [ ] Support for the [Philand API](https://docs.philand.xyz/developers/philand-api)
 - [ ] More examples
 
