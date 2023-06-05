@@ -7,6 +7,7 @@ export default async function Page() {
       <ul>
         <li><a href={`/images/${QUEST_OBJECT_CONTRACT_ADDRESS}/${100504}`}>object image</a></li>
         <li><a href="/spritesheet">spritesheet</a></li>
+        <li><a href="/buy-shop-object">buy shop object</a></li>
       </ul>
     </div>
   )
